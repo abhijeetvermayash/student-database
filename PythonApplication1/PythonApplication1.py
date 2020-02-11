@@ -5,7 +5,7 @@ import pymysql
 class student:
     def __init__(self, root):
         self.root=root
-        self.root.title("STUDENT DATA BASE MANAGEMENT")
+        self.root.title("STUDENT DATA BASE MANAGEMENT PART 1")
         self.root.geometry("1350x750+0+0")
 
         #=========================all variable===================================#
